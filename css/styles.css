@@ -57,7 +57,7 @@ body{
 
 
 /*animaciones nuevas*/
-header h1:hover{
+header a:hover{
     color: blue;
     font-weight: bold;
     
